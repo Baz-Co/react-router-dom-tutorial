@@ -1,3 +1,9 @@
+# react-router-dom v6 tutorial
+
+- [react-router-dom v6 tutorial](https://reactrouterdotcom.fly.dev/docs/en/v6/getting-started/tutorial)
+
+nested routes + outlets, active route highlighting with query string handler
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
